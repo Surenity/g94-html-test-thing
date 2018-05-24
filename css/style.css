@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  padding: 6px 0 6px 5px;
+}
+
+.cta {
+  background-color: #90C62C;
+  width: 100%;
+  text-align: center;
+  padding: 15px 0;
+}
+
+.remove-padding-and-center {
+  margin: 0;
+  text-align: center;
+}
+
+.item-wrapper {
+  display: flex;
+  margin-top: 20px;
+  padding: 0 20px;
+}
+
+#cta-button {
+  margin-top: 15px;
+}
+
+.title {
+  text-align: center;
+}
+
+.title > h2 {
+  margin: 10px;
+}
